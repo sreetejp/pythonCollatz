@@ -1,5 +1,3 @@
-# Collatz conjecture implementation in Python
-
 def collatz(n: int) -> int:
     """
     Apply the Collatz conjecture to a given positive integer n.
